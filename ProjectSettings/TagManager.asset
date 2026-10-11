@@ -3,7 +3,24 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Obsticle
+  - Scoring
+  - Background
+  - Spring
+  - Platform
+  - Paddel
+  - Wall
+  - Death
+  - Brick
+  - Enemy
+  - Bullet
+  - Boundries
+  - SpecialUFO
+  - Asteroid
+  - Bubble
+  - Food
+  - GunUpgrade
   layers:
   - Default
   - TransparentFX
@@ -11,7 +28,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Background
   - 
   - 
   - 
